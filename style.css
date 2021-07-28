@@ -1,0 +1,34 @@
+.shoe-bg{
+    background-color:#f1f1f1;
+    border-radius: 10px;
+}
+
+.border_redious{
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 575px){
+    .extra-small-flex{
+    flex-direction: column-reverse;
+}
+    .sm_img_size{
+        width: 120%;
+    }
+
+    
+
+    .small__box{
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+
